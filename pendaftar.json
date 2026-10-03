@@ -1,0 +1,38 @@
+[
+    {
+        "no_reg": "REG-2026-001",
+        "nama": "Rassyad Laya",
+        "wa": "085142012348",
+        "email": "lrassyadlaya07@gmail.com",
+        "matkul": "Pengembangan Aplikasi Website",
+        "motivasi": "Biar Dapat TAK",
+        "waktu": "30-09-2026 07:29"
+    },
+    {
+        "no_reg": "REG-2026-002",
+        "nama": "Rassyad Laya",
+        "wa": "085142012348",
+        "email": "lrassyadlaya07@gmail.com",
+        "matkul": "Pengembangan Aplikasi Website",
+        "motivasi": "blablabla",
+        "waktu": "30-09-2026 08:01"
+    },
+    {
+        "no_reg": "REG-2026-003",
+        "nama": "Rassyad Laya",
+        "wa": "085142012348",
+        "email": "lrassyadlaya07@gmail.com",
+        "matkul": "Pemrograman Java",
+        "motivasi": "1122",
+        "waktu": "03-10-2026 08:56"
+    },
+    {
+        "no_reg": "REG-2026-004",
+        "nama": "Rassyad Laya",
+        "wa": "085142012348",
+        "email": "rassyadlaya@student.telkomuniversity.ac.id",
+        "matkul": "Jaringan Komputer",
+        "motivasi": "Saya sangat ingin bergabung dengan asprak jarkom, karena saya ingin mengasah skil dalam jaringan internet dan telekomunikasi",
+        "waktu": "03-10-2026 09:00"
+    }
+]
